@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/electSG/static/css/main.07e51588.css",
-    "main.js": "/electSG/static/js/main.d48125cc.js",
+    "main.js": "/electSG/static/js/main.d87d09bd.js",
     "reactPlayerYouTube.js": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js",
     "reactPlayerSoundCloud.js": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js",
     "reactPlayerVimeo.js": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js",
@@ -34,7 +34,7 @@
     "static/media/meeting.png": "/electSG/static/media/meeting.b7d9f8c726ffbf586137.png",
     "index.html": "/electSG/index.html",
     "main.07e51588.css.map": "/electSG/static/css/main.07e51588.css.map",
-    "main.d48125cc.js.map": "/electSG/static/js/main.d48125cc.js.map",
+    "main.d87d09bd.js.map": "/electSG/static/js/main.d87d09bd.js.map",
     "reactPlayerYouTube.6fe15e9f.chunk.js.map": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js.map",
     "reactPlayerSoundCloud.e9901937.chunk.js.map": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js.map",
     "reactPlayerVimeo.b06c72d7.chunk.js.map": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js.map",
@@ -52,6 +52,6 @@
   },
   "entrypoints": [
     "static/css/main.07e51588.css",
-    "static/js/main.d48125cc.js"
+    "static/js/main.d87d09bd.js"
   ]
 }
