@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/electSG/static/css/main.761f8a78.css",
-    "main.js": "/electSG/static/js/main.277bc572.js",
+    "main.css": "/electSG/static/css/main.141600bc.css",
+    "main.js": "/electSG/static/js/main.7a87cb7e.js",
     "reactPlayerYouTube.js": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js",
     "reactPlayerSoundCloud.js": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js",
     "reactPlayerVimeo.js": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js",
@@ -23,18 +23,21 @@
     "static/media/celebration.png": "/electSG/static/media/celebration.a510dd7530fdded20935.png",
     "static/media/background_profile.png": "/electSG/static/media/background_profile.a430c81f47ec1e41ae3b.png",
     "static/media/electSg_logo.png": "/electSG/static/media/electSg_logo.1a269f471fb5c4a6959f.png",
+    "static/media/linkability.png": "/electSG/static/media/linkability.800901b16d6ff312ba3f.png",
     "static/media/technicalDoc.png": "/electSG/static/media/technicalDoc.328584d2e503428b774b.png",
     "static/media/login.png": "/electSG/static/media/login.835e86a70f5e07d416b2.png",
     "static/media/requirement.png": "/electSG/static/media/requirement.e140e1d0143169299403.png",
     "static/media/skills.png": "/electSG/static/media/skills.553495e551802b2ce696.png",
     "static/media/analysis.png": "/electSG/static/media/analysis.8a9dfa181fd77e2bf373.png",
     "static/media/vote.png": "/electSG/static/media/vote.1d1fb3467860fca7b30e.png",
+    "static/media/anonymous.png": "/electSG/static/media/anonymous.ee257648b3810df2947c.png",
     "static/media/profilepic.png": "/electSG/static/media/profilepic.d5b3fcbe1c506995a4f9.png",
+    "static/media/fake.png": "/electSG/static/media/fake.4832f765d5473861d303.png",
     "static/media/user-guide.png": "/electSG/static/media/user-guide.a61da41366a2af424a3a.png",
     "static/media/meeting.png": "/electSG/static/media/meeting.b7d9f8c726ffbf586137.png",
     "index.html": "/electSG/index.html",
-    "main.761f8a78.css.map": "/electSG/static/css/main.761f8a78.css.map",
-    "main.277bc572.js.map": "/electSG/static/js/main.277bc572.js.map",
+    "main.141600bc.css.map": "/electSG/static/css/main.141600bc.css.map",
+    "main.7a87cb7e.js.map": "/electSG/static/js/main.7a87cb7e.js.map",
     "reactPlayerYouTube.6fe15e9f.chunk.js.map": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js.map",
     "reactPlayerSoundCloud.e9901937.chunk.js.map": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js.map",
     "reactPlayerVimeo.b06c72d7.chunk.js.map": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js.map",
@@ -51,7 +54,7 @@
     "reactPlayerPreview.73eff92a.chunk.js.map": "/electSG/static/js/reactPlayerPreview.73eff92a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.761f8a78.css",
-    "static/js/main.277bc572.js"
+    "static/css/main.141600bc.css",
+    "static/js/main.7a87cb7e.js"
   ]
 }
