@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/electSG/static/css/main.141600bc.css",
-    "main.js": "/electSG/static/js/main.7a87cb7e.js",
+    "main.js": "/electSG/static/js/main.28d1c4a4.js",
     "reactPlayerYouTube.js": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js",
     "reactPlayerSoundCloud.js": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js",
     "reactPlayerVimeo.js": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js",
@@ -22,6 +22,7 @@
     "static/media/background_image.png": "/electSG/static/media/background_image.f7ee715e8301a0a30155.png",
     "static/media/celebration.png": "/electSG/static/media/celebration.a510dd7530fdded20935.png",
     "static/media/background_profile.png": "/electSG/static/media/background_profile.a430c81f47ec1e41ae3b.png",
+    "static/media/MeetingMinutes.pdf": "/electSG/static/media/MeetingMinutes.d7980cef9fdf93340fde.pdf",
     "static/media/electSg_logo.png": "/electSG/static/media/electSg_logo.1a269f471fb5c4a6959f.png",
     "static/media/linkability.png": "/electSG/static/media/linkability.800901b16d6ff312ba3f.png",
     "static/media/technicalDoc.png": "/electSG/static/media/technicalDoc.328584d2e503428b774b.png",
@@ -37,7 +38,7 @@
     "static/media/meeting.png": "/electSG/static/media/meeting.b7d9f8c726ffbf586137.png",
     "index.html": "/electSG/index.html",
     "main.141600bc.css.map": "/electSG/static/css/main.141600bc.css.map",
-    "main.7a87cb7e.js.map": "/electSG/static/js/main.7a87cb7e.js.map",
+    "main.28d1c4a4.js.map": "/electSG/static/js/main.28d1c4a4.js.map",
     "reactPlayerYouTube.6fe15e9f.chunk.js.map": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js.map",
     "reactPlayerSoundCloud.e9901937.chunk.js.map": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js.map",
     "reactPlayerVimeo.b06c72d7.chunk.js.map": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js.map",
@@ -55,6 +56,6 @@
   },
   "entrypoints": [
     "static/css/main.141600bc.css",
-    "static/js/main.7a87cb7e.js"
+    "static/js/main.28d1c4a4.js"
   ]
 }
