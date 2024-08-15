@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/electSG/static/css/main.141600bc.css",
-    "main.js": "/electSG/static/js/main.28d1c4a4.js",
+    "main.js": "/electSG/static/js/main.4a7a2571.js",
     "reactPlayerYouTube.js": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js",
     "reactPlayerSoundCloud.js": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js",
     "reactPlayerVimeo.js": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js",
@@ -16,8 +16,8 @@
     "reactPlayerKaltura.js": "/electSG/static/js/reactPlayerKaltura.aa16ac5e.chunk.js",
     "reactPlayerFilePlayer.js": "/electSG/static/js/reactPlayerFilePlayer.429357ce.chunk.js",
     "reactPlayerPreview.js": "/electSG/static/js/reactPlayerPreview.73eff92a.chunk.js",
-    "static/media/video.mp4": "/electSG/static/media/video.e1800036c35aa7580464.mp4",
     "static/media/UserManual.pdf": "/electSG/static/media/UserManual.8a600ef4f899f9f956e4.pdf",
+    "static/media/marketing_video.mp4": "/electSG/static/media/marketing_video.7cf44168097283fe06e1.mp4",
     "static/media/National_Day.png": "/electSG/static/media/National_Day.adf1a7f72ec373b45c7b.png",
     "static/media/background_image.png": "/electSG/static/media/background_image.f7ee715e8301a0a30155.png",
     "static/media/celebration.png": "/electSG/static/media/celebration.a510dd7530fdded20935.png",
@@ -26,6 +26,7 @@
     "static/media/electSg_logo.png": "/electSG/static/media/electSg_logo.1a269f471fb5c4a6959f.png",
     "static/media/linkability.png": "/electSG/static/media/linkability.800901b16d6ff312ba3f.png",
     "static/media/technicalDoc.png": "/electSG/static/media/technicalDoc.328584d2e503428b774b.png",
+    "static/media/female.png": "/electSG/static/media/female.f40b72cfb4c8e3732b3e.png",
     "static/media/login.png": "/electSG/static/media/login.835e86a70f5e07d416b2.png",
     "static/media/requirement.png": "/electSG/static/media/requirement.e140e1d0143169299403.png",
     "static/media/skills.png": "/electSG/static/media/skills.553495e551802b2ce696.png",
@@ -38,7 +39,7 @@
     "static/media/meeting.png": "/electSG/static/media/meeting.b7d9f8c726ffbf586137.png",
     "index.html": "/electSG/index.html",
     "main.141600bc.css.map": "/electSG/static/css/main.141600bc.css.map",
-    "main.28d1c4a4.js.map": "/electSG/static/js/main.28d1c4a4.js.map",
+    "main.4a7a2571.js.map": "/electSG/static/js/main.4a7a2571.js.map",
     "reactPlayerYouTube.6fe15e9f.chunk.js.map": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js.map",
     "reactPlayerSoundCloud.e9901937.chunk.js.map": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js.map",
     "reactPlayerVimeo.b06c72d7.chunk.js.map": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js.map",
@@ -56,6 +57,6 @@
   },
   "entrypoints": [
     "static/css/main.141600bc.css",
-    "static/js/main.28d1c4a4.js"
+    "static/js/main.4a7a2571.js"
   ]
 }
