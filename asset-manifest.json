@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/electSG/static/css/main.141600bc.css",
-    "main.js": "/electSG/static/js/main.4a7a2571.js",
+    "main.js": "/electSG/static/js/main.d67ccda6.js",
     "reactPlayerYouTube.js": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js",
     "reactPlayerSoundCloud.js": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js",
     "reactPlayerVimeo.js": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js",
@@ -16,7 +16,7 @@
     "reactPlayerKaltura.js": "/electSG/static/js/reactPlayerKaltura.aa16ac5e.chunk.js",
     "reactPlayerFilePlayer.js": "/electSG/static/js/reactPlayerFilePlayer.429357ce.chunk.js",
     "reactPlayerPreview.js": "/electSG/static/js/reactPlayerPreview.73eff92a.chunk.js",
-    "static/media/UserManual.pdf": "/electSG/static/media/UserManual.8a600ef4f899f9f956e4.pdf",
+    "static/media/UserManual.pdf": "/electSG/static/media/UserManual.3b953c08cc492a20a0b7.pdf",
     "static/media/marketing_video.mp4": "/electSG/static/media/marketing_video.7cf44168097283fe06e1.mp4",
     "static/media/National_Day.png": "/electSG/static/media/National_Day.adf1a7f72ec373b45c7b.png",
     "static/media/background_image.png": "/electSG/static/media/background_image.f7ee715e8301a0a30155.png",
@@ -39,7 +39,7 @@
     "static/media/meeting.png": "/electSG/static/media/meeting.b7d9f8c726ffbf586137.png",
     "index.html": "/electSG/index.html",
     "main.141600bc.css.map": "/electSG/static/css/main.141600bc.css.map",
-    "main.4a7a2571.js.map": "/electSG/static/js/main.4a7a2571.js.map",
+    "main.d67ccda6.js.map": "/electSG/static/js/main.d67ccda6.js.map",
     "reactPlayerYouTube.6fe15e9f.chunk.js.map": "/electSG/static/js/reactPlayerYouTube.6fe15e9f.chunk.js.map",
     "reactPlayerSoundCloud.e9901937.chunk.js.map": "/electSG/static/js/reactPlayerSoundCloud.e9901937.chunk.js.map",
     "reactPlayerVimeo.b06c72d7.chunk.js.map": "/electSG/static/js/reactPlayerVimeo.b06c72d7.chunk.js.map",
@@ -57,6 +57,6 @@
   },
   "entrypoints": [
     "static/css/main.141600bc.css",
-    "static/js/main.4a7a2571.js"
+    "static/js/main.d67ccda6.js"
   ]
 }
